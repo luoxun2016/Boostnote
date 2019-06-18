@@ -1,5 +1,5 @@
 createdAt: "2019-06-18T05:44:52.638Z"
-updatedAt: "2019-06-18T05:55:52.626Z"
+updatedAt: "2019-06-18T07:48:10.153Z"
 type: "MARKDOWN_NOTE"
 folder: "68880271cad111b4dcb5"
 title: "Git命令详解"
@@ -17,7 +17,7 @@ content: '''
   - Repository：仓库区（或本地仓库）
   - Remote：远程仓库
   
-  ## 
+  ## 1
 '''
 tags: []
 isStarred: false
