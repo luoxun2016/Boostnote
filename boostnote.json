@@ -3,7 +3,12 @@
     {
       "key": "68880271cad111b4dcb5",
       "color": "#1278BD",
-      "name": "Default"
+      "name": "Development"
+    },
+    {
+      "key": "728f2232dd49928b7bfe",
+      "color": "#B013A4",
+      "name": "English Learning"
     }
   ],
   "version": "1.0"
