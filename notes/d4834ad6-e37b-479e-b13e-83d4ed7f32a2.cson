@@ -1,5 +1,5 @@
 createdAt: "2019-06-18T05:44:52.638Z"
-updatedAt: "2019-06-18T07:48:10.153Z"
+updatedAt: "2019-06-28T09:07:43.650Z"
 type: "MARKDOWN_NOTE"
 folder: "68880271cad111b4dcb5"
 title: "Git命令详解"
@@ -17,7 +17,91 @@ content: '''
   - Repository：仓库区（或本地仓库）
   - Remote：远程仓库
   
-  ## 1
+  ## 基本命令
+  
+  - 初始化工作目录
+  
+  ```shell
+  cd <work path>
+  git init
+  ```
+  
+  - 克隆代码到工作目录
+  
+  ```shell
+  cd <work path>
+  git clone <server>
+  ```
+  
+  - 将工作目录链接到远程服务器
+  
+  ```shell
+  git <work path>
+  git remote add <server>
+  ```
+  
+  - 将工作目录类容添加到暂存区
+  
+  ```shell
+  git add .
+  git add path
+  ```
+  
+  - 将暂存区类容提交到仓库区
+  
+  ```shell
+  git commit -m "提交备注"
+  ```
+  
+  - 将仓库区类容提交到远程仓库
+  
+  ```shell
+  git push
+  ```
+  
+  - 查看工作区状态
+  
+  ```shell
+  git status
+  ```
+  
+  - 查看提交日志
+  
+  ```shell
+  git log
+  ```
+  
+  - 查看工作区与仓库区类容区别
+  
+  ```shell
+  git diff
+  ```
+  
+  - 还原工作区类容，仓库区类容替换本地类容
+  
+  ```shell
+  git checkout .
+  git checkout <file path>
+  ```
+  
+  - 从当前分支中检出一个新的本地分支
+  
+  ```shell
+  git checkout -b <branch>
+  ```
+  
+  - 切换到指定分支
+  
+  ```shell
+  git checkout <branch>
+  ```
+  
+  - 回撤仓库区到指定版本
+  
+  ```shell
+  git reset --hard ~HEARD
+  git reset --hard <branch id>
+  ```
 '''
 tags: []
 isStarred: false
