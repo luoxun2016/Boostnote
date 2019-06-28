@@ -1,5 +1,5 @@
 createdAt: "2019-06-18T05:44:52.638Z"
-updatedAt: "2019-06-28T09:13:00.324Z"
+updatedAt: "2019-06-28T09:17:04.628Z"
 type: "MARKDOWN_NOTE"
 folder: "68880271cad111b4dcb5"
 title: "Git命令详解"
@@ -59,6 +59,12 @@ content: '''
   
   ```shell
   git push
+  ```
+  
+  - 合并分支
+  
+  ```shell
+  git merge <branch>
   ```
   
   - 查看工作区状态
