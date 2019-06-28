@@ -1,5 +1,5 @@
 createdAt: "2019-06-18T05:44:52.638Z"
-updatedAt: "2019-06-28T09:07:43.650Z"
+updatedAt: "2019-06-28T09:13:00.324Z"
 type: "MARKDOWN_NOTE"
 folder: "68880271cad111b4dcb5"
 title: "Git命令详解"
@@ -10,6 +10,8 @@ content: '''
   ![git工作的基本流程](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png)
   
   ---
+  
+  [git 简明指南：https://rogerdudler.github.io/git-guide/index.zh.html](https://rogerdudler.github.io/git-guide/index.zh.html)
   
   ## git的几个存储区域
   - Workspace：工作区
