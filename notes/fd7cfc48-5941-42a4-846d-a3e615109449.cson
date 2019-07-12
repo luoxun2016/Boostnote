@@ -1,5 +1,5 @@
 createdAt: "2019-06-18T05:44:23.688Z"
-updatedAt: "2019-06-28T09:28:05.080Z"
+updatedAt: "2019-06-28T09:29:31.472Z"
 type: "MARKDOWN_NOTE"
 folder: "68880271cad111b4dcb5"
 title: "Maven命令详解"
@@ -22,9 +22,9 @@ content: '''
   ## Maven常用命令
   
   - 创建maven项目：`mvn archetype:create`
-  - 指定 group： `-DgroupId=packageName`
-  - 指定 artifact：`-DartifactId=projectName`
-  - 创建web项目：`-DarchetypeArtifactId=maven-archetype-webapp`
+  指定 group： `-DgroupId=packageName`
+  指定 artifact：`-DartifactId=projectName`
+  创建web项目：`-DarchetypeArtifactId=maven-archetype-webapp`
   - 创建maven项目：`mvn archetype:generate`
   - 验证项目是否正确：`mvn validate`
   - maven 打包：`mvn package`

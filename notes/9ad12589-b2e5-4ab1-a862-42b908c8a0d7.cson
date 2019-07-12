@@ -1,0 +1,29 @@
+createdAt: "2019-07-12T04:48:20.767Z"
+updatedAt: "2019-07-12T06:40:25.960Z"
+type: "MARKDOWN_NOTE"
+folder: "68880271cad111b4dcb5"
+title: "Kafaka教程"
+content: '''
+  # Kafaka教程
+  
+  > 学习资料推荐：
+  >- [apache kafka技术分享系列(目录索引) - 李志涛的专栏 - CSDN博客](http://blog.csdn.net/lizhitao/article/details/39499283)
+  >- [kafka中文教程 - OrcHome](http://orchome.com/kafka/index)
+  >- [kafka 的文章 - SegmentFault 思否](https://segmentfault.com/t/kafka/blogs)
+  >- [Kafka – 过往记忆](https://www.iteblog.com/archives/category/kafka/)
+  >- [标签: Kafka | 技术世界](http://www.jasongj.com/tags/Kafka/)
+  
+  
+  ## 网站教程
+  - [kafka中文教程 - OrcHome](https://www.orchome.com/kafka/index)
+  
+  ## Kafaka的特性
+  - 发布和订阅消息
+  - 高效实时处理
+  - 分布式安全存储
+  
+  
+'''
+tags: []
+isStarred: false
+isTrashed: false
