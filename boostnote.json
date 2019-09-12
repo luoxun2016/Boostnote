@@ -19,6 +19,16 @@
       "key": "6dbf9563d0f42a97f748",
       "color": "#E10051",
       "name": "Other"
+    },
+    {
+      "key": "ccb4393bd18c3b049162",
+      "color": "#30D5C8",
+      "name": "Mysql"
+    },
+    {
+      "key": "bda836e4d0e5445e609d",
+      "color": "#B013A4",
+      "name": "Machine Learning"
     }
   ],
   "version": "1.0"
