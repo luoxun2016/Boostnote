@@ -1,5 +1,5 @@
 createdAt: "2019-07-12T10:37:35.374Z"
-updatedAt: "2019-07-12T10:38:05.491Z"
+updatedAt: "2019-09-12T10:00:19.024Z"
 type: "MARKDOWN_NOTE"
 folder: "83af13f562ea2113c194"
 title: "技术文章收藏"
@@ -7,6 +7,8 @@ content: '''
   # 技术文章收藏
   
   ## [MySQL锁和事务](https://mp.weixin.qq.com/s/6WcLO9ChZSrGs8x_wOxQTg)
+  
+  ## [床长人工智能教程-前言 - 床长人工智能教程](https://www.captainbed.net/u011630575/)
 '''
 tags: []
 isStarred: false
